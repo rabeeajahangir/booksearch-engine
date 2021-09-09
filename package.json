@@ -22,5 +22,9 @@
     "url": "https://github.com/rabeeajahangir/booksearch-engine/issues"
   },
   "homepage": "https://github.com/rabeeajahangir/booksearch-engine#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "apollo-server-express": "^3.3.0",
+    "graphql": "^15.5.3"
+  }
 }
