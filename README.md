@@ -1,5 +1,11 @@
 # booksearch-engine
 
+## Table of Contents:
+[Purpose](#PURPOSE)
+[Usage](#Usage)
+[Contributions](#Contribution)
+[Screenshots](#Screenshots)
+
 ## PURPOSE:
 This is a search engine for the books. It contains full library of books that users might want to read with complete summaries. When logged in, users can save and delete the saved books. 
 
@@ -7,7 +13,7 @@ This is a search engine for the books. It contains full library of books that us
 Visit the deployed link, click [here](https://powerful-hamlet-00082.herokuapp.com/)
 
 ## Contribution:
-tarter code provided by The Coding Bootcamp
+Starter code provided by The Coding Bootcamp
 [Rabeea Jahangir](www.github.com/rabeeajahangir) contributed code for implementing the Apollo Server, applying middleware, mutations and queries to fetch the GraphQL API and deploying to Heroku.
 
 ## Screenshots:
