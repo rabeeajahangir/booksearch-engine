@@ -1,7 +1,7 @@
 
 const mongoose = require('mongoose');
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/booksearch-engine', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/powerful-hamlet-00082', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,
