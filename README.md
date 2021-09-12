@@ -1,10 +1,10 @@
 # booksearch-engine
 
 ## Table of Contents:
-[Purpose](#PURPOSE)
-[Usage](#Usage)
-[Contributions](#Contribution)
-[Screenshots](#Screenshots)
+[Purpose](#PURPOSE)</br>
+[Usage](#Usage)</br>
+[Contributions](#Contribution)</br>
+[Screenshots](#Screenshots)</br>
 
 ## PURPOSE:
 This is a search engine for the books. It contains full library of books that users might want to read with complete summaries. When logged in, users can save and delete the saved books. 
