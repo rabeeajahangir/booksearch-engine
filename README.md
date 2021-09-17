@@ -13,7 +13,7 @@ This is a search engine for the books. It contains full library of books that us
 Visit the deployed link, click [here](https://powerful-hamlet-00082.herokuapp.com/)
 
 ## Contribution:
-Starter code provided by The Coding Bootcamp
+Starter code provided by The Coding Bootcamp </br>
 [Rabeea Jahangir](www.github.com/rabeeajahangir) contributed code for implementing the Apollo Server, applying middleware, mutations and queries to fetch the GraphQL API and deploying to Heroku.
 
 ## Screenshots:
